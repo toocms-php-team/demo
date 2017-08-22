@@ -1,0 +1,6 @@
+#tab1{width:100%;}
+.bill-table {  width: 70%;  border-left: #ccc solid 1px;border-top: #ccc solid 1px;}
+.bill-table .bg-tr {background:#f0f0f0; font-size: 15px; font-weight: bold}
+.bill-table .wb-tr td{font-weight: bold}
+.bill-table td {  padding: 10px;  border-bottom: #ccc solid 1px;border-right: #ccc solid 1px;}
+.bill-table > tr > td:first-child {  width: 15%;  }

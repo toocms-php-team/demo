@@ -1,0 +1,63 @@
+[ 2017-03-30T10:00:02+08:00 ] 127.0.0.1 /System/tip.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.006001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+
+[ 2017-03-30T10:00:32+08:00 ] 127.0.0.1 /System/tip.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.004000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+
+[ 2017-03-30T10:01:02+08:00 ] 127.0.0.1 /System/tip.html
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+NOTIC: [8] Undefined index: url D:\wamp\www\demo\Modules\Common\Common\bms.php 第 15 行.
+NOTIC: [8] Undefined index: check_level D:\wamp\www\demo\Modules\Common\Common\bms.php 第 40 行.
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+ERR: 1146:Table 'demo.toocms_order_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toocms_order_info`
+
