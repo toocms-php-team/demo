@@ -4,3 +4,9 @@ INFO: Run Common\Behavior\InitHook [ RunTime:0.002000s ]
 INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
 ERR: 无法加载模块:Bms
 
+[ 2017-08-22T15:58:56+08:00 ] 127.0.0.1 /index.php?m=bms&c=index$a=index
+INFO: [ app_init ] --START--
+INFO: Run Common\Behavior\InitHook [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Bms
+

@@ -13,7 +13,8 @@ return array(
             'group' => array('title'=>'文章管理','icon'=>'fa-book'),
             '_child' => array(
                 array('title'=>'文章列表','url'=>'Article/index'),
-                array('title'=>'文章分类','url'=>'ArticleCategory/index')
+                array('title'=>'文章分类','url'=>'ArticleCategory/index'),
+                array('title'=>'区域配置','url'=>'Area/index')
             )
         ),
         array(

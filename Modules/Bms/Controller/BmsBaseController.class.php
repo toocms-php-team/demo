@@ -113,6 +113,7 @@ class BmsBaseController extends MscBaseController {
             }
             $this->display('update');
         } else {
+            print_r($_POST);die;
             $result = self::$logicObject->update(I('post.'));
             if($result) {
                 $this->success(self::$logicObject->getLogicInfo(), cookie('__forward__'));
